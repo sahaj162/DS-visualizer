@@ -41,6 +41,8 @@ An interactive web application for learning data structures through visual anima
 
 ## Project Structure
 
+└── content/              # Markdown content for explanations
+```
 ```
 ds-visualizer/
 ├── app/                    # Next.js app router pages
@@ -51,8 +53,6 @@ ds-visualizer/
 │   └── global/            # Global components
 ├── hooks/                 # Custom React hooks
 ├── lib/                  
-└── content/              # Markdown content for explanations
-```
 
 
 
